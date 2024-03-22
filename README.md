@@ -1,6 +1,6 @@
 # VLAM-24
 
-Material for the course *Vision-Language-Action Models for Robotics and Autonomous Vehicles*. 
+Material for the course *Vision-Language-Action Models for Robotics and Autonomous Vehicles*.
 
 Alice Plebe, March 2024.
 
@@ -33,8 +33,4 @@ Files used in the software:
 - [`image_01.jpg`](https://www.dropbox.com/scl/fi/5fkn00h925xjf51jcodcj/c1.jpg?rlkey=2a7kjoqphqaz5mt1wl3c5bp4i&dl=0)
 - [`image_02.jpg`](https://www.dropbox.com/scl/fi/s5089zy9pt5ed10ocn46y/c2.jpg?rlkey=01qndot441zgst8g8cdz0emqw&dl=0)
 - [`image_03.jpg`](https://www.dropbox.com/scl/fi/u65cc3yaz91y45yu28eq8/c3.jpg?rlkey=6ynt5npd51k5z0zqy2k4s17fe&dl=0)
-
-## Exam
-
-The exam is an oral presentation of a recent paper.
-The list of papers to choose from is available [here](https://docs.google.com/spreadsheets/d/1_BlpGtml7ehKrvqoQ4U4G6oNvlb4T7-adD69wPUzOso).
+- [`image_04.jpg`](https://www.dropbox.com/scl/fi/djmfggr7ho1os4nihkzg5/c6.jpeg?rlkey=hdp41x87gac6pvggn7rgf989v&dl=0)
