@@ -35,7 +35,60 @@ Files used in the software:
 - [`image_03.jpg`](https://www.dropbox.com/scl/fi/u65cc3yaz91y45yu28eq8/c3.jpg?rlkey=6ynt5npd51k5z0zqy2k4s17fe&dl=0)
 - [`image_04.jpg`](https://www.dropbox.com/scl/fi/djmfggr7ho1os4nihkzg5/c6.jpeg?rlkey=hdp41x87gac6pvggn7rgf989v&dl=0)
 
+
 ## Exam
 
 The exam is an oral presentation of a recent paper.
 The list of papers to choose from is available [here](https://docs.google.com/spreadsheets/d/1_BlpGtml7ehKrvqoQ4U4G6oNvlb4T7-adD69wPUzOso).
+
+
+## Papers
+
+List of papers cited during the lessons, and more.
+
+##### Foundations of Language models
+
+- T. Mikolov et al., "Distributed Representations of Words and Phrases and their Compositionality", NeurIPS (2013).
+- J. Pennington et al., "GloVe: Global Vectors for Word Representation", EMNLP (2014).
+- D. Bahdanau et al., "Neural machine translation by jointly learning to align and translate", arXiv (2014).
+- P. Christiano et al., "Deep Reinforcement Learning from Human Preferences", NeurIPS (2017).
+- A. Vaswani et al., "Attention Is All You Need", NeurIPS (2017).
+- A. Radford et al., "Improving Language Understanding by Generative Pre-Training" (2018).
+- A. Radford et al., "Language Models are Unsupervised Multitask Learners" (2019).
+- S. Kazemi et al., "Time2Vec: Learning a Vector Representation of Time", arXiv (2019).
+- T. Brown et al., "Language Models are Few-Shot Learners", NeurIPS (2020).
+- D. Ziegler et al., "Fine-Tuning Language Models from Human Preferences", arXiv (2020).
+- L. Ouyang et al., "Training language models to follow instructions with human feedback", arXiv (2022).
+- G. Franceschelli & M. Musolesi, "Reinforcement Learning for Generative AI: State of the Art, Opportunities and Open Research Challenges", Journal of Artificial Intelligence Research (2024).
+
+##### Foundations of Multimodal Language models
+
+- A. Ramesh et al., "Zero-Shot Text-to-Image Generation", PMLR (2020).
+- A. Dosovitskiy et al., "An image is worth 16x16 words: Transformers for image recognition at scale", ICLR (2021).
+- C. Jia et al., "Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision", PMLR (2021).
+- A. Radford et al., "Learning Transferable Visual Models From Natural Language Supervision", PMLR (2021).
+- M. Tsimpoukelli et al., "Multimodal Few-Shot Learning with Frozen Language Models", NeurIPS (2021).
+- Z. Yang et al., "The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)", arXiv (2023).
+
+##### Language models for Autonomous driving
+
+- X. Li et al., "Towards Knowledge-driven Autonomous Driving", arXiv (2023).
+- S. Wang et al., "ChatGPT as Your Vehicle Co-Pilot: An
+Initial Attempt", IEEE T-IV (2023).
+- L. Wen et al., "On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving", arXiv (2023).
+- C. Cui et al., "A Survey on Multimodal Large Language Models for Autonomous Driving", WACV (2024).
+- D. Fu et al., "Drive like a human: Rethinking autonomous driving with large language models", WACV (2024).
+- S. Luo et al., "Delving into Multi-modal Multi-task Foundation Models for Road Scene Understanding: From Learning Paradigm Perspectives", arXiv (2024).
+
+##### Language models for Robotics
+
+- M. Ahn et al., "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances", arXiv (2022).
+- W. Huang et al., "Inner Monologue: Embodied Reasoning through Planning with Language Models", arXiv (2022).
+- A. Brohan et al., "RT-1: Robotics Transformer
+for Real-world Control at Scale", arXiv (2023).
+- A. Brohan et al., "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control", arXiv (2023).
+- R. Firoozi et al., "Foundation Models in Robotics: Applications, Challenges, and the Future", arXiv (2023).
+- S. Vemprala et al., "ChatGPT for Robotics:
+Design Principles and Model Abilities", arXiv (2023).
+- M. Ahn et al., "AutoRT: Embodied Foundation Models For Large Scale Orchestration of Robotic Agents", arXiv (2024).
+
