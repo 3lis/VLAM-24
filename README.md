@@ -4,6 +4,11 @@ Material for the course *Vision-Language-Action Models for Robotics and Autonomo
 
 Alice Plebe, March 2024.
 
+## Slides
+
+The lesson slides are available 
+[here](https://www.dropbox.com/scl/fi/j9kxntxrj519jortstimm/slides.pdf?rlkey=j2enserwm8kkw1urn09kjimaz&dl=0).
+
 ## Software
 
 - `attention.ipynb` contains:
@@ -46,7 +51,7 @@ The list of papers to choose from is available [here](https://docs.google.com/sp
 
 List of papers cited during the lessons, and more.
 
-##### Foundations of Language models
+#### Foundations of Language models
 
 - T. Mikolov et al., "Distributed Representations of Words and Phrases and their Compositionality", NeurIPS (2013).
 - J. Pennington et al., "GloVe: Global Vectors for Word Representation", EMNLP (2014).
@@ -61,7 +66,7 @@ List of papers cited during the lessons, and more.
 - L. Ouyang et al., "Training language models to follow instructions with human feedback", arXiv (2022).
 - G. Franceschelli & M. Musolesi, "Reinforcement Learning for Generative AI: State of the Art, Opportunities and Open Research Challenges", Journal of Artificial Intelligence Research (2024).
 
-##### Foundations of Multimodal Language models
+#### Foundations of Multimodal Language models
 
 - A. Ramesh et al., "Zero-Shot Text-to-Image Generation", PMLR (2020).
 - A. Dosovitskiy et al., "An image is worth 16x16 words: Transformers for image recognition at scale", ICLR (2021).
@@ -70,7 +75,7 @@ List of papers cited during the lessons, and more.
 - M. Tsimpoukelli et al., "Multimodal Few-Shot Learning with Frozen Language Models", NeurIPS (2021).
 - Z. Yang et al., "The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)", arXiv (2023).
 
-##### Language models for Autonomous driving
+#### Language models for Autonomous driving
 
 - X. Li et al., "Towards Knowledge-driven Autonomous Driving", arXiv (2023).
 - S. Wang et al., "ChatGPT as Your Vehicle Co-Pilot: An
@@ -80,7 +85,7 @@ Initial Attempt", IEEE T-IV (2023).
 - D. Fu et al., "Drive like a human: Rethinking autonomous driving with large language models", WACV (2024).
 - S. Luo et al., "Delving into Multi-modal Multi-task Foundation Models for Road Scene Understanding: From Learning Paradigm Perspectives", arXiv (2024).
 
-##### Language models for Robotics
+#### Language models for Robotics
 
 - M. Ahn et al., "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances", arXiv (2022).
 - W. Huang et al., "Inner Monologue: Embodied Reasoning through Planning with Language Models", arXiv (2022).
