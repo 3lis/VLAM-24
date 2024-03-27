@@ -4,12 +4,18 @@ Material for the course *Vision-Language-Action Models for Robotics and Autonomo
 
 Alice Plebe, March 2024.
 
-## Slides and Exam
+## Slides, Recordings, and Exam
 
 The lesson slides are available 
 [here](https://www.dropbox.com/scl/fi/j9kxntxrj519jortstimm/slides.pdf?rlkey=j2enserwm8kkw1urn09kjimaz&dl=0).
+Video recording of the lessons are available as well:
 
-The exam is an oral presentation of a recent paper.
+- [Lesson 1](https://www.dropbox.com/scl/fi/9sn950gk5ubpfvuqim3xw/lesson_01.mp4?rlkey=j49hc384f11dyn0d5300vjvnf&dl=0) (26/03/2024)
+- [Lesson 2](https://www.dropbox.com/scl/fi/qllork1xrf7ssypjpljbr/lesson_02.mp4?rlkey=hrfidmbag3ug6l91sc6sqrken&dl=0) (27/03/2024)
+- Lesson 3 (TBD)
+- Lesson 4 (TBD)
+
+The **exam is an oral presentation** of a recent paper.
 The list of papers to choose from is available [here](https://docs.google.com/spreadsheets/d/1_BlpGtml7ehKrvqoQ4U4G6oNvlb4T7-adD69wPUzOso).
 
 ## Software
