@@ -12,8 +12,7 @@ Video recording of the lessons are available as well:
 
 - [Lesson 1](https://www.dropbox.com/scl/fi/9sn950gk5ubpfvuqim3xw/lesson_01.mp4?rlkey=j49hc384f11dyn0d5300vjvnf&dl=0) (26/03/2024)
 - [Lesson 2](https://www.dropbox.com/scl/fi/qllork1xrf7ssypjpljbr/lesson_02.mp4?rlkey=hrfidmbag3ug6l91sc6sqrken&dl=0) (27/03/2024)
-- Lesson 3 (TBD)
-- Lesson 4 (TBD)
+- [Lesson 3](https://www.dropbox.com/scl/fi/hififujw7vw24ie6cyor9/lesson_03.mp4?rlkey=bu6ltdsfnlie6bqn53fneup34&dl=0) (28/03/2024)- Lesson 4 (TBD)
 
 The **exam is an oral presentation** of a recent paper.
 The list of papers to choose from is available [here](https://docs.google.com/spreadsheets/d/1_BlpGtml7ehKrvqoQ4U4G6oNvlb4T7-adD69wPUzOso).
